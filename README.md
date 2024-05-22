@@ -21,5 +21,8 @@ Looker Studio
 
 <img width="601" alt="data-model" src="https://github.com/kavyadarsi1/New-York-Taxi-Data-Analytics-Pipeline-Utilizing-GCP-and-Looker/assets/112968627/42827f09-e1e2-4a8d-9d43-40c99bc648dc">
 
+## Conclusion
+
+This project exemplifies the power of modern data engineering tools and methodologies to transform raw data into actionable insights. By leveraging Google Cloud's Compute Engine, MageVM, BigQuery, and Looker, along with Python and Lucidchart, I successfully designed and implemented a robust ETL pipeline and a scalable data warehouse. The development of comprehensive dashboards provided real-time insights into ride patterns and customer behavior, supporting strategic business decision-making. Leading a small team to optimize data processes and modeling practices underscored the importance of collaboration and innovation in achieving project goals. This experience has deepened my expertise in cloud-based data processing and analytics, positioning me to tackle complex data challenges in the future.
 
 
