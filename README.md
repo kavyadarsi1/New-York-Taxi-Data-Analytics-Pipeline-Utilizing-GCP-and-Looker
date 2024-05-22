@@ -12,11 +12,11 @@ The goal of this project is to perform data analytics on Newyork data using vari
 
 ### Programming Language 
 - Python
-Google Cloud Platform
-Google Storage
-Compute Instance
-BigQuery
-Looker Studio
+- Google Cloud Platform
+- Google Storage
+- Compute Instance
+- BigQuery
+- Looker Studio
 
 ## Data-Model
 
