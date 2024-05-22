@@ -8,12 +8,18 @@ The goal of this project is to perform data analytics on Newyork data using vari
 
 ![Complete  Process of Data](https://github.com/kavyadarsi1/New-York-Taxi-Data-Analytics-Pipeline-Utilizing-GCP-and-Looker/assets/112968627/4890d07a-1f9e-4391-84fa-9417b0da2e8b)
 
-Technology Used
+## Technology Used
+
 Programming Language - Python
 Google Cloud Platform
 Google Storage
 Compute Instance
 BigQuery
 Looker Studio
+
+## Data-Model
+
+<img width="601" alt="data-model" src="https://github.com/kavyadarsi1/New-York-Taxi-Data-Analytics-Pipeline-Utilizing-GCP-and-Looker/assets/112968627/42827f09-e1e2-4a8d-9d43-40c99bc648dc">
+
 
 
