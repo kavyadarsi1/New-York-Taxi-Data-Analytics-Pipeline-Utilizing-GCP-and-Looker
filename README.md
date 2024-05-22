@@ -10,7 +10,8 @@ The goal of this project is to perform data analytics on Newyork data using vari
 
 ## Technology Used
 
-Programming Language - Python
+### Programming Language 
+- Python
 Google Cloud Platform
 Google Storage
 Compute Instance
