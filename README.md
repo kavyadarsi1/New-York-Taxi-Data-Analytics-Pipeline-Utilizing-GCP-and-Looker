@@ -1,6 +1,6 @@
 # New-York-Taxi-Data-Analytics-Pipeline-Utilizing-GCP-and-Looker
 
-** Introduction
+## Introduction
 
 The goal of this project is to perform data analytics on Newyork data using various tools and technologies, including GCP Storage, Python, Compute Instance, Mage Data Pipeline Tool, BigQuery, and Looker Studio.
 
